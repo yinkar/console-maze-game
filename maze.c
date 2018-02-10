@@ -117,7 +117,7 @@ int main() {
 	}
 	
 	system("color 0f");
-	printf("Won. Game over. Your moves: %d, Your crashes: %d\n\n", z, crash);
+	printf("You win. Game over. Your moves: %d, Your crashes: %d\n\n", z, crash);
 	
 	getchar();
 }
